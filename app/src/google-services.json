@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494364822160",
+    "project_id": "quoteshub-a34a0",
+    "storage_bucket": "quoteshub-a34a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494364822160:android:53358773bd5eb94da5e615",
+        "android_client_info": {
+          "package_name": "com.vipul.Quotehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494364822160-mmif8ge9ncuknqqhnf6lhtji221acg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC9trd0yX7_E0Go2vmnGhhY9sUp4nwWho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494364822160-mmif8ge9ncuknqqhnf6lhtji221acg89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
